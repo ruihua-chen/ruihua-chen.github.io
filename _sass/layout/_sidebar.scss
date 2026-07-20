@@ -11,6 +11,7 @@
           transform: translate3d(0, 0 , 0);
 
   @include clearfix();
+  margin-top: 0 !important;
   margin-bottom: 1em;
   padding-top: 0 !important;
 
@@ -145,14 +146,14 @@
     display: block;
     width: 175px;
     height: auto;
-    margin: 0 auto 0.75em;
+    margin: 0 0 0.75em;
   }
 
   img {
     width: 72px;
     height: 72px;
     object-fit: cover;
-    border-radius: 0;
+    border-radius: 8px;
 
     @include breakpoint($large) {
       width: 175px;
@@ -172,7 +173,7 @@
 
   @include breakpoint($large) {
     display: block;
-    width: 100%;
+    width: 175px;
     padding-left: 0;
     padding-right: 0;
   }
@@ -191,6 +192,13 @@
   font-size: $type-size-5;
   line-height: 1.25;
   text-align: center;
+}
+
+.sidebar [itemscope][itemtype="http://schema.org/Person"] {
+  @include breakpoint($large) {
+    width: 175px;
+    margin: 0 auto;
+  }
 }
 
 .sidebar .author__desktop {
