@@ -10,7 +10,7 @@
 
 <script>
   document.documentElement.className = document.documentElement.className.replace(/\bno-js\b/g, '') + ' js ';
-  // Ensure page starts at the top
+  // Always scroll to top on page load, ignore hash anchors on refresh
   if (document.readyState === 'loading') {
     document.addEventListener('DOMContentLoaded', function() {
       window.scrollTo(0, 0);
