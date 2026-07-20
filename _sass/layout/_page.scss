@@ -33,6 +33,18 @@
   }
 }
 
+.page--profile-full {
+  clear: both;
+
+  @include breakpoint($large) {
+    float: none;
+    width: 100%;
+    margin-left: 0;
+    padding-left: 0;
+    padding-right: 0;
+  }
+}
+
 .page__title {
   margin-top: 0;
   line-height: 1;

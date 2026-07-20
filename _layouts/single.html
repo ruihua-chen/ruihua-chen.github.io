@@ -93,6 +93,32 @@ layout: default
     {% endif %}
   </article>
 
+  {% if page.profile_full_width %}
+    <section class="page page--profile-full" itemscope itemtype="http://schema.org/CreativeWork">
+      <div class="page__inner-wrap">
+        <section class="page__content" itemprop="text">
+          {% if page.publications %}
+            <h2>Publication</h2>
+            <ul>
+              {% for publication in page.publications %}
+                <li>{{ publication | markdownify | remove: '<p>' | remove: '</p>' }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+
+          {% if page.awards %}
+            <h2>Award</h2>
+            <ul>
+              {% for award in page.awards %}
+                <li>{{ award }}</li>
+              {% endfor %}
+            </ul>
+          {% endif %}
+        </section>
+      </div>
+    </section>
+  {% endif %}
+
   {% comment %}<!-- only show related on a post page when not disabled -->{% endcomment %}
   {% if page.id and page.related and site.related_posts.size > 0 %}
     <div class="page__related">
