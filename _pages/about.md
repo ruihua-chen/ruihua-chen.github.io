@@ -17,8 +17,8 @@ redirect_from:
   - /about.html
 ---
 
-Greetings! I am a Ph.D. student starting from 2026 at the School of Mathematics and Statistics, Xi’an Jiaotong University [(XJTU)](https://www.xjtu.edu.cn/), supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/). I received my Bachelor degree from the School of Mathematics and Statistics, Xi’an Jiaotong University in 2026, supervised by associate Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home).
+Greetings! I am a Ph.D. student, starting in 2026, at the School of Mathematics and Statistics, [Xi’an Jiaotong University](https://www.xjtu.edu.cn/), supervised by Prof. [Deyu Meng](https://gr.xjtu.edu.cn/en/web/dymeng) and working with Ph.D. student [Yisi Luo](https://yisiluo.github.io/). I received my Bachelor's degree from the School of Mathematics and Statistics, Xi’an Jiaotong University in 2026, supervised by Associate Prof. [Bangyu Wu](https://gr.xjtu.edu.cn/en/web/bangyuwu/home).
 
-My research interests include machine learning theory and PDE-related forward and inversion problems, e.g., implicit regularization, neural tangent kernel (NTK), neural operator, full-waveform inversion (FWI), seismic and medical imaging.
+My research interests focus on PDE-related forward and nonlinear inverse problems using deep learning, including full-waveform inversion (FWI), neural operators, diffusion models, and applications in seismic, medical, and materials imaging.
 
 E-mail: ruihua.chen@stu.xjtu.edu.cn
