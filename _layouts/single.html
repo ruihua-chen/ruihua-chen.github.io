@@ -98,7 +98,7 @@ layout: default
       <div class="page__inner-wrap">
         <section class="page__content" itemprop="text">
           {% if page.publications %}
-            <h2>Publication</h2>
+            <h2>Publications</h2>
             <ul>
               {% for publication in page.publications %}
                 <li>{{ publication | markdownify | remove: '<p>' | remove: '</p>' }}</li>
