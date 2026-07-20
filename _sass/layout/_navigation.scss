@@ -237,9 +237,14 @@
     .masthead__logo {
       height: 32px;
       width: auto;
-      margin: 0 1rem 0 auto;
       display: flex;
       align-items: center;
+      padding-right: 1rem;
+    }
+
+    li:has(.masthead__logo) {
+      width: 100%;
+      text-align: right;
     }
 
     a {
