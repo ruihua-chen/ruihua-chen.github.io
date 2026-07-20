@@ -18,6 +18,7 @@ Publication
 * **Ruihua Chen**, Yisi Luo, Bangyu Wu, and Deyu Meng, "Unveiling the Mechanism of Continuous Representation Full-Waveform Inversion: A Wave-Based Neural Tangent Kernel Framework", **International Conference on Learning Representations (ICLR)**, 2026.
 * **Ruihua Chen**, Bangyu Wu, Meng Li, and Yisi Luo, "Full Waveform Inversion with Velocity Model Low-Rank Implicit Neural Representation", **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2025.
 * Bo Kang\*, **Ruihua Chen**\*, Kai Yang, Meng Li, Bangyu Wu*, "Implicit full waveform inversion with adaptive Fourier frequency bases learning", **Geophysical Journal International (GJI)**, 2026. (\*Equal contribution)
+* Xueqian Yang, **Ruihua Chen**, Kai Yang, Meng Li*, and Bangyu Wu*, "Boundary-Enhanced Continuous Representation Full-Waveform Inversion with Sobel-Integrated Convolutional Neural Network", **Journal of Geophysics and Engineering (JGE)**, 2026.
 
 Award
 ------
