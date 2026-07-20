@@ -239,12 +239,12 @@
       width: auto;
       display: flex;
       align-items: center;
-      padding-right: 1rem;
+      padding-right: 2rem;
+      margin-left: auto;
     }
 
     li:has(.masthead__logo) {
-      width: 100%;
-      text-align: right;
+      margin-left: auto;
     }
 
     a {
