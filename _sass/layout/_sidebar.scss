@@ -190,8 +190,7 @@
 }
 .sidebar .author__name {
   font-family: $sans-serif;
-  font-size: 1.35em;
-  font-weight: bold;
+  font-size: $type-size-5;
   line-height: 1.25;
   text-align: center;
 }
@@ -225,7 +224,6 @@
   @include breakpoint($large) {
     margin-top: 0;
     margin-bottom: 0;
-    font-size: 1.05em;
     text-align: center;
   }
 }
