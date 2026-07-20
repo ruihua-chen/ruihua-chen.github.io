@@ -12,6 +12,7 @@
 
   @include clearfix();
   margin-bottom: 1em;
+  padding-top: 0 !important;
 
   @media (orientation: portrait) {
     margin-top: 1em;
@@ -144,7 +145,7 @@
     display: block;
     width: 175px;
     height: auto;
-    margin: 0 auto;
+    margin: 0 auto 0.75em;
   }
 
   img {
@@ -181,8 +182,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 10px;
+    margin-top: 0;
+    margin-bottom: 8px;
   }
 }
 .sidebar .author__name {
@@ -212,8 +213,8 @@
   margin: 0;
 
   @include breakpoint($large) {
-    margin-top: 10px;
-    margin-bottom: 20px;
+    margin-top: 0;
+    margin-bottom: 0;
   }
 }
 
