@@ -6,8 +6,8 @@ profile_full_width: true
 publications:
   - '**Ruihua Chen**, Yisi Luo, Bangyu Wu, and Deyu Meng, "Unveiling the Mechanism of Continuous Representation Full-Waveform Inversion: A Wave-Based Neural Tangent Kernel Framework", **International Conference on Learning Representations (ICLR)**, 2026.'
   - '**Ruihua Chen**, Bangyu Wu, Meng Li, and Yisi Luo, "Full Waveform Inversion with Velocity Model Low-Rank Implicit Neural Representation", **IEEE Transactions on Geoscience and Remote Sensing (TGRS)**, 2025.'
-  - 'Bo Kang\*, **Ruihua Chen**\*, Kai Yang, Meng Li, Bangyu Wu*, "Implicit full waveform inversion with adaptive Fourier frequency bases learning", **Geophysical Journal International (GJI)**, 2026. (\*Equal contribution)'
-  - 'Xueqian Yang, **Ruihua Chen**, Kai Yang, Meng Li*, and Bangyu Wu*, "Boundary-Enhanced Continuous Representation Full-Waveform Inversion with Sobel-Integrated Convolutional Neural Network", **Journal of Geophysics and Engineering (JGE)**, 2026.'
+  - 'Bo Kang\*, **Ruihua Chen**\*, Kai Yang, Meng Li, Bangyu Wu, "Implicit full waveform inversion with adaptive Fourier frequency bases learning", **Geophysical Journal International (GJI)**, 2026. (\*Equal contribution)'
+  - 'Xueqian Yang, **Ruihua Chen**, Kai Yang, Meng Li, and Bangyu Wu, "Boundary-Enhanced Continuous Representation Full-Waveform Inversion with Sobel-Integrated Convolutional Neural Network", **Journal of Geophysics and Engineering (JGE)**, 2026.'
   - Y. Wang, **Ruihua. Chen**, J. Lin, S. Wang and B. Wu, "Seismic Random Noise Attenuation via Implicit Neural Representations With Multiple Structural Priors," in **IEEE Geoscience and Remote Sensing Letters (GRSL)**, 2026.
   - **Ruihua Chen**, Yisi Luo, Bangyu Wu, Xile Zhao, Deyu Meng, "Deciphering Neural Reparameterized Full-Waveform Inversion with Neural Sensitivity Kernel and Wave Tangent Kernel", arXiv preprint arXiv:2605.14370, 2026.
   - **Ruihua Chen**, Bangyu Wu, Meng Li, Kai Yang, "Initial model incorporation for deep learning FWI: Pretraining or denormalization?", arXiv preprint arXiv:2506.05484, 2025.
